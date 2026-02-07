@@ -1,8 +1,3 @@
-Below is a clean, professional README.md template you can directly use.
-It explicitly includes Kaggle dataset download steps before running the project, which is what evaluators usually look for.
-
-You can copy–paste this into README.md and adjust the dataset name/link if needed.
-
 📊 Machine Learning / Data Analysis Project
 📌 Project Overview
 
